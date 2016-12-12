@@ -1,11 +1,11 @@
 export default {
 
-    apiKey: 'AIzaSyBcQ2_9SRyO90YL4_PisC0iGRe0K-sk9QI',
+    apiKey: '<api-key>',
 
-    authDomain: 'xavier-chat.firebaseapp.com',
+    authDomain: '<auth-domain>.firebaseapp.com',
 
-    databaseURL: 'https://xavier-chat.firebaseio.com',
+    databaseURL: 'https://<database-url>.firebaseio.com',
 
-    storageBucket: 'xavier-chat.appspot.com'
+    storageBucket: '<storage-bucket>.appspot.com'
 
 }
